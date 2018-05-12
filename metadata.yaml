@@ -1,0 +1,27 @@
+_repo: Valkaman-perhe_19374
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lajula, Osmo
+    alias: Raivio, J. P.
+    birthdate: 1874
+    deathdate: 1935
+    gutenberg_agent_id: '8623'
+    url: http://www.gutenberg.org/2009/agents/8623
+description: ''
+gutenberg_issued: '2006-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19374'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Valkaman perhe
+url: http://www.gutenberg.org/ebooks/19374
